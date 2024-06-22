@@ -9,3 +9,6 @@ How to create ec2 instance
 - select instance and connect - ssh client
 - copy the ssh -i "test-demo.pem" ubuntu@ec2-PUBLIC_IP.ap-south-1.compute.amazonaws.com
 - in CMD or use mobaxterm
+- instance state
+- stop instance
+- terminate instance
