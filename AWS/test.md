@@ -1,1 +1,11 @@
 How to create ec2 instance
+- create user in IAM center
+- give access rights
+- ec2 service
+- name, select os, create key pair
+- key pair .pem for openssh
+- launch instance
+- wait for status runing
+- select instance and connect - ssh client
+- copy the ssh -i "test-demo.pem" ubuntu@ec2-PUBLIC_IP.ap-south-1.compute.amazonaws.com
+- in CMD or use mobaxterm
